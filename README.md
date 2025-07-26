@@ -53,4 +53,4 @@ Tracks all financial activity with the following columns:
 
 ## 📜 License
 
-MIT License (or specify your own)
+MIT License
