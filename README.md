@@ -33,14 +33,6 @@ Tracks all financial activity with the following columns:
 
 ---
 
-## 📷 Screenshots
-
-| Dashboard View | Transaction Tab | Category Mapping |
-|----------------|------------------|------------------|
-| ![Dashboard](./screenshots/dashboard_view.png) | ![Transactions](./screenshots/bank_transactions_tab.png) | ![Categories](./screenshots/category_flow.png) |
-
----
-
 ## 🛠️ How to Use
 
 1. Clone or download the repository.
